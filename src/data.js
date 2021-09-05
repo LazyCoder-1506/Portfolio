@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Asset Matter",
+    subtitle: "HTML, CSS, Bootstrap, JS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://assetmatter.netlify.app/",
   },
   {
     title: "React Tracks",
